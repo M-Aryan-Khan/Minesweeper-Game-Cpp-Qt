@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>flag.jpg</file>
+	<file>bg.png</file>
+	<file>bg.jpg</file>
+	<file>bomb.png</file>
+	<file>flag.png</file>
+    </qresource>
+</RCC>
